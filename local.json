@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 1,
+    "albumName": "Album1",
+    "albumDesc": "albumDesc1",
+    "videos": [  ]
+
+  },
+  {
+    "id": 2,
+    "albumName": "Album2",
+    "albumDesc": "albumDesc2",
+    "videos": [
+      {
+        "id": "1",
+        "songName": "It's my life",
+        "url": "https://www.youtube.com/embed/vx2u5uUu3DE"
+      }
+    ]
+
+  }
+]
